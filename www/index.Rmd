@@ -23,3 +23,6 @@ Then, you can see the recommendation of R packages for you. Just ckeck it out!
 First, try three different packages in three droplists.
 
 Second, the packages you choose should be used in similar field. If three packages were far too diverse, you may just get most commonly used R package (base, ggplot or so on)  
+
+
+Source file of server.r, ui.r and data file can be find in https://github.com/AdenGuo/DevelopingDataProducts  
