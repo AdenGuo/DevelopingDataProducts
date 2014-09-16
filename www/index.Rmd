@@ -1,0 +1,25 @@
+---
+title: "User Guide of Simple R Package Recommendation"
+author: "Aden Guo"
+date: "Tuesday, September 16, 2014"
+output: html_document
+---
+
+
+## Brief Introduction
+This is a web app for R packages recommendations. In this app, you can input top three your frequently used R packages. And you will get a list of recommendations of R packages for you.
+
+
+## How to Use
+
+First, select three your most frequently used R packages in the droplist. 
+
+Second, choose a number of reconmmendations you want to display in the app.
+
+Then, you can see the recommendation of R packages for you. Just ckeck it out!
+
+## Some guide for choosing R packages
+
+First, try three different packages in three droplists.
+
+Second, the packages you choose should be used in similar field. If three packages were far too diverse, you may just get most commonly used R package (base, ggplot or so on)  
